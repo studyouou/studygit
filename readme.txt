@@ -1,3 +1,3 @@
 git is a controller version kit
 git is a stronger kit
-git is good
+git is very good
