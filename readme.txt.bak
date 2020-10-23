@@ -4,6 +4,8 @@ git is verydd good
 git is verys good
 this is second dev branch
 this is dev branch
+<<<<<<< HEAD
 this is one commit aginst
+=======
 this is second update again
-
+>>>>>>> origin/dev
