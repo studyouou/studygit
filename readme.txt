@@ -6,6 +6,6 @@ git is verys good
 git devvvvv xooxoxoxoxoppp
 
 
-git devvvvv XpandagoSupplierApplication
+git devvvvv
 this is master branch
 
